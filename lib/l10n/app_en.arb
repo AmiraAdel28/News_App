@@ -1,0 +1,20 @@
+{
+    "news": "News",
+    "noresult": "No Result",
+    "pickyourcategory": "Pick Your Category Of Interest",
+    "newsapp": "News App",
+    "categories": "Categories",
+    "selectedtime": "Selected Time",
+    "successfully": "Successfully Added",
+    "ok": "Ok",
+    "done": "Done!",
+    "pleaseentertasktitle": "please Enter task title",
+    "pleaseentertaskdescription": "please Enter task Description",
+    "english": "English",
+    "arabic": "Arabic",
+    "setting": "Setting",
+    "language": "Language",
+    "theme": "Theme",
+    "dark": "Dark Mode",
+    "light": "Light Mode"
+}
